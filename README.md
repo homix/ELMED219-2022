@@ -18,7 +18,7 @@ You will find more static and student-specific information about the course at [
 
 <img src="./assets/questions.jpg" width="70">
 
-For **academic questions** about the course, contact course coordinator [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold) (UiB) or [Alexander S. Lundervold](https://www.hvl.no/en/employee/?user=3610493) (HVL).
+For **academic questions** about the course, contact course coordinator [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold) (UiB) or [Alexander S. Lundervold](https://www.hvl.no/en/employee/?user=Alexander.Selvikvag.Lundervold) (HVL).
 
 For **practical / administrative inquiries**, contact the Studies Section at the Department of Biomedicine at studie.biomed@uib.no
 
