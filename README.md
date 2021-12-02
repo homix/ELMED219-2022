@@ -27,9 +27,10 @@ For **practical / administrative inquiries**, contact the Studies Section at the
 <img src="./assets/cc_by_sa.png" width="75"> The content for the course is offered with a <b><a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></b> license unless otherwise stated.
 
 --------
-## Time schedule
 
-<u>Tentative</u> time schedule
+# <u>Tentative</u> time schedule
+
+<!-- <u>Tentative</u> time schedule -->
 <img src="./assets/tentative_time_schedule_jan_2022.png" width="700"> <br>
 
 <!--
