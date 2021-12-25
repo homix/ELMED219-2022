@@ -31,7 +31,7 @@ For **practical / administrative inquiries**, contact the Studies Section at the
 # <u>Tentative</u> time schedule <spce> <sup>[January 3-28 2022]</sup>
 
 
-| **Time**                    | Activity  <space> <sub><sup>(NOTE: access to links will be provided in due time)</sup></sub>                                                                                |
+| **TIME**                    | ACTIVITY  <space> <sub><sup>(NOTE: access to links will be provided in due time)</sup></sub>                                                                                |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Mon/Tue** **January 3-4** |                                                                                               |
 | On your own                 | Get an overview of the course; installation of software and/or test out Google collab                                                                                                                                                                                                                                                                       |
