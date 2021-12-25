@@ -28,7 +28,7 @@ For **practical / administrative inquiries**, contact the Studies Section at the
 
 --------
 
-# <u>Tentative</u> time schedule <spce> <sub>(January 2022)</sub>
+# <u>Tentative</u> time schedule <spce> <sup>(January 2022)</sup>
 
 
 | **Time**                    | Activity  <space> <sub><sup>(NOTE: access to links will be provided in due time)</sup></sub>                                                                                |
