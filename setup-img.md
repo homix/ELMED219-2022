@@ -40,7 +40,7 @@ After you have successfully installed Anaconda, go through the following steps (
 ```bash
 conda install git
 ```
-### Download the repository (you have likely done this already, and if so, you only need to pay attention to updating):
+### Download the repository (you have likely done this already, and if so, you only need to do `git pull`):
 ```bash
 git clone https://github.com/MMIV-ML/ELMED219-2022
 cd ELMED219-2022
