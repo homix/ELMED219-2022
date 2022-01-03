@@ -1,4 +1,4 @@
-# Digital imaging and image analysis (optional part of ELMED219-2022)
+# Digital imaging and image analysis (optional part)
 
 
 ### Before you start on this optional Lab0.2-MRI (also introducing IMC):
