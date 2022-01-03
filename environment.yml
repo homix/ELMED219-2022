@@ -1,0 +1,33 @@
+name: elmed219
+dependencies:
+- python
+- pip
+- ipython
+- ipykernel
+- ipywidgets
+- jupyter
+- git
+- numpy
+- matplotlib
+- pandas
+- scikit-learn
+- scipy
+- seaborn
+- scikit-image
+- imageio
+- openpyxl
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::jupyterlab
+- conda-forge::category_encoders
+- conda-forge::shap
+- conda-forge::voila
+- pip:
+  - pip
+  - kaggle
+  - pandas-profiling
+  - eli5
+  - pdpbox
+  - nibabel
+  - nilearn
+  - opencv-python
+  
