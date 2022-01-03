@@ -43,11 +43,11 @@ conda install git
 ### Download the repository:
 ```bash
 git clone https://github.com/MMIV-ML/ELMED219-2022
-cd ELMED219-2022/Lab0.2-MRI
+cd ELMED219-2022
 ```
 ### Configure the Python-environment:
 ```bash
-conda env update
+conda env create -f environment-img.yml
 ```
 
 ### Activate the environment:
@@ -78,7 +78,7 @@ The code and environment will be updated during the course. Run the following co
 * Update environment:
 ```bash
 conda activate elmed219-img
-conda env update
+conda env update -f environment-img.yml
 ```
 
 # Unix Shell
