@@ -40,12 +40,12 @@ After you have successfully installed Anaconda, go through the following steps (
 ```bash
 conda install git
 ```
-### Download the repository:
+### Download the repository (you have likely done this already):
 ```bash
 git clone https://github.com/MMIV-ML/ELMED219-2022
 cd ELMED219-2022
 ```
-### Configure the Python-environment:
+### Configure the Python-environment for image processing and analysis:
 ```bash
 conda env create -f environment-img.yml
 ```
@@ -73,7 +73,7 @@ jupyter notebook  (or, jupyter lab)
 ```
 
 ## Update:
-The code and environment will be updated during the course. Run the following commands regularly:
+The image processing and analysis code and environment will likely be updated during the course. Run the following commands regularly:
 * Update code: `git pull`
 * Update environment:
 ```bash
