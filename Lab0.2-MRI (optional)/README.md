@@ -20,9 +20,9 @@ In the following series of Jupyter notebooks will explore **digital imaging** & 
 The notebooks will also illustrate the **generic nature of computational imaging** applied to data collection _in vivo_ and _in vitro_ and at different spatial scale.
 
 ----------
-- [**00-test-installation.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/00-test-installation.ipynb) (requires local installation, cf. `environment-img.yml` and `setup-img.md`)
+- [**00-test-installation.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/00-test-installation.ipynb) (requires local installation, cf. `environment-img.yml` and `setup-img.md`)
 
-- [**01-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/01-imaging-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/01-imaging-intro.ipynb">
+- [**01-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/01-imaging-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/01-imaging-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The notebook will download illustrative **assets** from Google Drive cloud:
@@ -79,7 +79,7 @@ assets
 ├── volume_rendering.png
 └── Zebra_running_Ngorongoro.jpg
 ```
-- [**02-mri-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/02-mri-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/02-mri-intro.ipynb">
+- [**02-mri-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/02-mri-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/02-mri-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 <!--
@@ -123,7 +123,7 @@ data
     └── training_mask_1_6.nii.gz
 ```
 
-- [**03-imc-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/03-imc-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/03-imc-intro.ipynb">
+- [**03-imc-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/03-imc-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/03-imc-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  (see also `IMC.md`)
 
 <!--
