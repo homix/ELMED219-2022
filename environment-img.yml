@@ -1,0 +1,45 @@
+name: elmed219-img
+
+channels:
+  - simpleitk
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python==3.8
+  - jupyter
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - pip
+  - git
+  - gdown
+  - ipywidgets
+  - itkwidgets
+  - numpy
+  - scipy
+  - pandas
+  - openpyxl
+  - seaborn
+  - SimpleITK
+  - scikit-image
+  - scikit-learn
+  - scikit-plot
+  - imageio
+  - dcm2niix
+  - tifffile
+  - statsmodels
+  - nibabel
+  - nilearn
+
+# To make a ELMED219-IMG kernel:
+# python -m ipykernel install --user --name elmed219-img --display-name "ELMED219-IMG"
+
+# To activate the elmed219-img conda environment:
+# conda activate elmed219-img
+
+# To remove and reinstall the elmed219-img environment (if installation problems):
+# conda deactivate
+# conda env remove -n elmed219-img
+# conda env update

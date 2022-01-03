@@ -72,11 +72,33 @@ conda activate elmed219
 python -m ipykernel install --user --name elmed219 --display-name "ELMED219"
 ```
 
-### Test din installasjon
-Ved å kjøre følgende kommando åpnes det et nettleservindu. Trykk på `0.0-test.ipynb` for å åpne test-notebooken.
+## Installer environment for imaging
+
+Se [setup-img.md](./setup-img.md) for detaljer.
+
+
 ```bash
-jupyter notebook
+conda env update --file environment-img.yml
 ```
+
+### Aktiver omgivelsene
+```bash
+conda activate elmed219-img
+```
+
+### Installer en Jupyter kernel
+
+```bash
+python -m ipykernel install --user --name elmed219-img --display-name "ELMED219-IMG"
+```
+
+### Test din installasjon:
+Gå gjennom notebooken [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/00-test-installation.ipynb) i `Lab0.2-MRI`-katalogen:
+```bash
+cd Lab0.2-MRI
+jupyter notebook  (or, jupyter lab)
+```
+
 
 ## Installer PyCaret
 

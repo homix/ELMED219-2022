@@ -13,8 +13,6 @@ dependencies:
 - scikit-learn
 - scipy
 - seaborn
-- scikit-image
-- imageio
 - openpyxl
 - conda-forge::jupyter_contrib_nbextensions
 - conda-forge::jupyterlab
@@ -27,7 +25,4 @@ dependencies:
   - pandas-profiling
   - eli5
   - pdpbox
-  - nibabel
-  - nilearn
-  - opencv-python
   
