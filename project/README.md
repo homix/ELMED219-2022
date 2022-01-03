@@ -1,8 +1,7 @@
-## ELMED219-2022 (team-based project)
+# ELMED219-2022 (team-based project)
 
-(MittUiB: [ELMED219 22V](https://mitt.uib.no/courses/33274))
 
-# _Precision medicine and quantitative imaging in glioblastoma_
+## _Precision medicine and quantitative imaging in glioblastoma_
 
 
 
