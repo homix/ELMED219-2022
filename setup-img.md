@@ -66,9 +66,9 @@ You can (preferably) consider to use [JupyterLab](https://github.com/jupyterlab/
 
 
 ### Test you installation:
-Go through the notebook [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/00-test-installation.ipynb) in the `Lab0.2-MRI`-directory:
+Go through the notebook [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI%20(optional)/00-test-installation.ipynb) in the `Lab0.2-MRI (optional)`-directory:
 ```bash
-cd Lab0.2-MRI
+cd "Lab0.2-MRI (optional)"
 jupyter notebook  (or, jupyter lab)
 ```
 
