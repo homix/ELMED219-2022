@@ -4,7 +4,7 @@
 ### Before you start on this optional Lab0.2-MRI (also introducing IMC):
 
 
-#### Activate the environment (see `setup.md`):
+#### Activate the environment (see local [`setup.md`](./setup.md)):
 ```bash
 conda activate elmed219-img
 ```
