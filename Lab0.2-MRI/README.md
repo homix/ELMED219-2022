@@ -20,7 +20,7 @@ In the following series of Jupyter notebooks will explore **digital imaging** & 
 The notebooks will also illustrate the **generic nature of computational imaging** applied to data collection _in vivo_ and _in vitro_ and at different spatial scale.
 
 ----------
-- **00-test-installation.ipynb** (requires local installation, cf. `environment.yml` and `setup.md`)
+- [**00-test-installation.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/00-test-installation.ipynb) (requires local installation, cf. `environment.yml` and `setup.md`)
 
 - [**01-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/01-imaging-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219-2022/blob/main/Lab0.2-MRI/01-imaging-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
